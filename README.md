@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lcim
-- 👀 A frontend developer and becoming a full stack soon
+- 👀 A frontend developer and becoming a full developer stack soon
 - 🌱 I’m currently good at javascript, css, react...
 - 💞️ I’m looking to collaborate on the above areas and similar
 - 📫 Contact me on github or lcim1104@gmail.com
